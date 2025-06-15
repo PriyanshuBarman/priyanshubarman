@@ -1,7 +1,7 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-<p align="right"><img src="https://profile-counter.glitch.me/priyanshubarman/count.svg" alt="profile counter" /></p>
-I'm **Priyanshu**, a **Full-Stack Developer** from India.
+I'm **Priyanshu**, a **Full-Stack Developer** from India.   
+
 
 Currently i am pursuing BCA. My main focus is on writing clean, maintainable code, using simplicity to achieve functionality, avoiding over-engineering, and reducing technical debt for long-term efficiency and scalability.
 
