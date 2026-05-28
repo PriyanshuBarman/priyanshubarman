@@ -5,7 +5,7 @@ I'm **Priyanshu**, a **Full-Stack Developer** from India.
 🎓 Currently pursuing **BCA**  
 💡 Passionate about writing **clean, maintainable code**, embracing **simplicity**, and building **scalable, long-term solutions**.
 
-**⚡️Tech i have worked with**
+**⚡️Tech i work with**
 <br />
 
 🎨 Frontend
@@ -21,6 +21,7 @@ I'm **Priyanshu**, a **Full-Stack Developer** from India.
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" /> 
 <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer%20Motion-0055FF?&logo=framer&logoColor=white" />
 <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white" /> 
+<img alt="React Hook Form" src="https://img.shields.io/badge/React_Hook_Form-EC5990?logo=reacthookform&logoColor=white" /> 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000" /> 
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> 
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-663399?logo=css&logoColor=white" /> 
@@ -31,17 +32,25 @@ I'm **Priyanshu**, a **Full-Stack Developer** from India.
 <p align="left">
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> 
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-1C1C1C?logo=express&logoColor=white" /> 
+<img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white" /> 
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /> 
 <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" /> 
 <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" /> 
+<img alt="Zod" src="https://img.shields.io/badge/Zod-408AFF?logo=zod&logoColor=white"/>
 <img alt="JSON Web Tokens" src="https://img.shields.io/badge/JSON_Web_Tokens-000000?logo=jsonwebtokens&logoColor=white" /> 
 </p>
 
-🧰 Tools & Utilities
+🧰 Tools & Deployment
 
 <p align="left"> 
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /> 
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /> 
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" /> 
+<img alt="Github Copilot" src="https://img.shields.io/badge/Github_Copilot-0B100F?logo=githubcopilot&logoColor=white" /> 
+<img alt="Windsurf" src="https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=white" /> 
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" /> 
+<img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" /> 
+<img alt="Render" src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white" /> 
+<img alt="Cleaver Cloud" src="https://img.shields.io/badge/Cleaver_Cloud-171C36?logo=clevercloud&logoColor=white" /> 
 </p>
